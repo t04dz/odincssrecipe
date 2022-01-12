@@ -1,0 +1,59 @@
+#title
+{
+    font-family: 'Kolker Brush', cursive;
+    font-size: 64px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.img
+{
+    height: auto;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#bg
+{
+    background-color: blanchedalmond;
+}
+
+.reclist
+{
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+    list-style-position: inside;
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.imgtwo
+{
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+
+.btncontainer
+{
+    text-align: center;
+}
+
+#btn
+{
+    background-color: burlywood;
+    border: none;
+    font-family: 'Roboto Slab', serif;
+    color: black;
+    padding: 15px 32px;
+
+}
+
+.listalign
+{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
